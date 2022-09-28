@@ -1,6 +1,6 @@
 # Cotuba
 
-Gerador de ebooks escritos no formato Markdown (`.md`) para os formatos EPUB e PDF.
+Gerador de **ebooks** escritos no formato Markdown (`.md`) para os formatos EPUB e PDF.
 
 Implementado em Java.
 
